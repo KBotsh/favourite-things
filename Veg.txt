@@ -2,3 +2,5 @@ Vegetables
 
 carrot
 leek
+peas
+beans
